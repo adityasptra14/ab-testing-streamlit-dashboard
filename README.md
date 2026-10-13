@@ -1,6 +1,6 @@
 # 🛒 End-to-End E-Commerce A/B Testing Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://ab-testing-app-dashboard-cj2v8slsrbjxqkc3uk3cdu.streamlit.app/#dashboard-a-b-testing-optimasi-tombol-checkout])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ab-testing-app-dashboard-cj2v8slsrbjxqkc3uk3cdu.streamlit.app/#dashboard-a-b-testing-optimasi-tombol-checkout)
 
 ## 📌 Latar Belakang Bisnis (Business Problem)
 Dalam operasional *E-Commerce*, perubahan kecil pada antarmuka pengguna (seperti warna atau posisi tombol *Checkout*) dapat berdampak signifikan terhadap total pendapatan. Namun, memutuskan apakah desain baru (Varian B) lebih baik dari desain lama (Kontrol A) tidak bisa didasarkan pada intuisi atau selisih persentase semata.
@@ -11,7 +11,7 @@ Proyek ini mendemonstrasikan proses eksperimen bisnis menggunakan uji hipotesis 
 
 ## 🚀 Fitur Aplikasi (Live Dashboard)
 Silakan klik *badge* **Streamlit** di atas atau tautan berikut untuk mencoba aplikasinya secara langsung:
-👉 **[Live A/B Testing Dashboard]([https://ab-testing-app-dashboard-cj2v8slsrbjxqkc3uk3cdu.streamlit.app/#dashboard-a-b-testing-optimasi-tombol-checkout])**
+👉 **[Live A/B Testing Dashboard](https://ab-testing-app-dashboard-cj2v8slsrbjxqkc3uk3cdu.streamlit.app/#dashboard-a-b-testing-optimasi-tombol-checkout)**
 
 *   **Interactive Simulation:** Pengguna dapat mengatur ukuran sampel (*traffic*) dan estimasi *Conversion Rate* (CR).
 *   **Real-time Statistical Engine:** Sistem otomatis menghitung *Z-Score* dan *P-Value* di latar belakang.
