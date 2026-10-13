@@ -1,6 +1,6 @@
 # 🛒 End-to-End E-Commerce A/B Testing Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([MASUKKAN_URL_STREAMLIT_KAMU_DISINI])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([[MASUKKAN_URL_STREAMLIT_KAMU_DISINI]](https://ab-testing-app-dashboard-cj2v8slsrbjxqkc3uk3cdu.streamlit.app/#dashboard-a-b-testing-optimasi-tombol-checkout))
 
 ## 📌 Latar Belakang Bisnis (Business Problem)
 Dalam operasional *E-Commerce*, perubahan kecil pada antarmuka pengguna (seperti warna atau posisi tombol *Checkout*) dapat berdampak signifikan terhadap total pendapatan. Namun, memutuskan apakah desain baru (Varian B) lebih baik dari desain lama (Kontrol A) tidak bisa didasarkan pada intuisi atau selisih persentase semata.
